@@ -1,0 +1,54 @@
+0 MiRcs [DEBUG] 06-07 21:59:36 下午 CommonApplication, the memory cache is initialized to be 12 
+265 MiRcs [DEBUG] 06-07 21:59:37 下午 RcsServiceManager, com.juphoon.service.rcs.RcsService onServiceConnected 
+265 MiRcs [DEBUG] 06-07 21:59:37 下午 RcsServiceManager, com.juphoon.service.im.RcsImService onServiceConnected 
+265 MiRcs [DEBUG] 06-07 21:59:37 下午 RcsServiceManager, com.juphoon.service.cap.RcsCapService onServiceConnected 
+1752 MiRcs [DEBUG] 06-07 21:59:38 下午 RcsServiceManager, rcs_json_action_cli_serv_login_ok 
+2561 MiRcs [DEBUG] 06-07 21:59:39 下午 RcsLoginManager, call resetCpDbVer 
+2561 MiRcs [DEBUG] 06-07 21:59:39 下午 RcsLoginManager, resetCpDbVer cpVer=1 
+2749 MiRcs [DEBUG] 06-07 21:59:39 下午 RcsServiceManager, rcs_json_action_cli_serv_login_ok 
+2868 MiRcs [DEBUG] 06-07 21:59:39 下午 RcsLoginManager, call resetCpDbVer 
+2868 MiRcs [DEBUG] 06-07 21:59:39 下午 RcsLoginManager, resetCpDbVer cpVer=1 
+2978 MiRcs [DEBUG] 06-07 21:59:39 下午 RcsServiceManager, rcs_json_action_cli_serv_login_ok 
+7217789 MiRcs [DEBUG] 06-07 23:59:54 下午 RcsServiceManager, rcs_json_action_cli_serv_logout 
+7220803 MiRcs [DEBUG] 06-07 23:59:57 下午 RcsServiceManager, rcs_json_action_cli_serv_login_ok 
+7240180 MiRcs [DEBUG] 06-08 00:00:17 上午 RcsServiceManager, rcs_json_action_cli_serv_logout 
+7240830 MiRcs [DEBUG] 06-08 00:00:17 上午 RcsServiceManager, rcs_json_action_cli_serv_login_ok 
+7983079 MiRcs [DEBUG] 06-08 00:12:39 上午 RcsServiceManager, rcs_json_action_cli_serv_logout 
+8064064 MiRcs [DEBUG] 06-08 00:14:00 上午 RcsServiceManager, rcs_json_action_cli_serv_login_ok 
+8114002 MiRcs [DEBUG] 06-08 00:14:50 上午 RcsServiceManager, rcs_json_action_cli_serv_logout 
+8116260 MiRcs [DEBUG] 06-08 00:14:53 上午 RcsServiceManager, rcs_json_action_cli_serv_login_ok 
+8289743 MiRcs [DEBUG] 06-08 00:17:46 上午 RcsServiceManager, rcs_json_action_cli_serv_logout 
+8290309 MiRcs [DEBUG] 06-08 00:17:47 上午 RcsServiceManager, rcs_json_action_cli_serv_login_ok 
+9460500 MiRcs [DEBUG] 06-08 00:37:17 上午 RcsServiceManager, rcs_json_action_cli_serv_logout 
+9461048 MiRcs [DEBUG] 06-08 00:37:17 上午 RcsServiceManager, rcs_json_action_cli_serv_login_ok 
+9720841 MiRcs [DEBUG] 06-08 00:41:37 上午 RcsServiceManager, rcs_json_action_cli_serv_logout 
+9721315 MiRcs [DEBUG] 06-08 00:41:38 上午 RcsServiceManager, rcs_json_action_cli_serv_login_ok 
+18250328 MiRcs [DEBUG] 06-08 03:03:47 上午 RcsServiceManager, rcs_json_action_cli_serv_logout 
+18250821 MiRcs [DEBUG] 06-08 03:03:47 上午 RcsServiceManager, rcs_json_action_cli_serv_login_ok 
+32663636 MiRcs [DEBUG] 06-08 07:04:00 上午 RcsServiceManager, rcs_json_action_cli_serv_logout 
+32664200 MiRcs [DEBUG] 06-08 07:04:01 上午 RcsServiceManager, rcs_json_action_cli_serv_login_ok 
+33172614 MiRcs [DEBUG] 06-08 07:12:29 上午 RcsServiceManager, rcs_json_action_cli_serv_logout 
+33174352 MiRcs [DEBUG] 06-08 07:12:31 上午 RcsServiceManager, rcs_json_action_cli_serv_login_ok 
+33209694 MiRcs [DEBUG] 06-08 07:13:06 上午 RcsServiceManager, rcs_json_action_cli_serv_logout 
+33214423 MiRcs [DEBUG] 06-08 07:13:11 上午 RcsServiceManager, rcs_json_action_cli_serv_login_ok 
+54280371 MiRcs [DEBUG] 06-08 13:04:17 下午 RcsLoginManager, call resetCpDbVer 
+54280375 MiRcs [DEBUG] 06-08 13:04:17 下午 RcsLoginManager, resetCpDbVer cpVer=1 
+58640094 MiRcs [DEBUG] 06-08 14:16:57 下午 RcsServiceManager, rcs_json_action_cli_serv_logout 
+58641064 MiRcs [DEBUG] 06-08 14:16:57 下午 RcsServiceManager, rcs_json_action_cli_serv_login_ok 
+60008330 MiRcs [DEBUG] 06-08 14:39:45 下午 RcsServiceManager, rcs_json_action_cli_serv_logout 
+60008869 MiRcs [DEBUG] 06-08 14:39:45 下午 RcsServiceManager, rcs_json_action_cli_serv_login_ok 
+63591587 MiRcs [DEBUG] 06-08 15:39:28 下午 RcsServiceManager, rcs_json_action_cli_serv_logout 
+63592160 MiRcs [DEBUG] 06-08 15:39:29 下午 RcsServiceManager, rcs_json_action_cli_serv_login_ok 
+67190383 MiRcs [DEBUG] 06-08 16:39:27 下午 RcsServiceManager, rcs_json_action_cli_serv_logout 
+67191223 MiRcs [DEBUG] 06-08 16:39:28 下午 RcsServiceManager, rcs_json_action_cli_serv_login_ok 
+69687210 MiRcs [DEBUG] 06-08 17:21:04 下午 RcsServiceManager, rcs_json_action_cli_serv_logout 
+69687730 MiRcs [DEBUG] 06-08 17:21:04 下午 RcsServiceManager, rcs_json_action_cli_serv_login_ok 
+70217329 MiRcs [DEBUG] 06-08 17:29:54 下午 RcsServiceManager, rcs_json_action_cli_serv_logout 
+70218030 MiRcs [DEBUG] 06-08 17:29:54 下午 RcsServiceManager, rcs_json_action_cli_serv_login_ok 
+70677835 MiRcs [DEBUG] 06-08 17:37:34 下午 RcsServiceManager, rcs_json_action_cli_serv_logout 
+70679328 MiRcs [DEBUG] 06-08 17:37:36 下午 RcsServiceManager, rcs_json_action_cli_serv_login_ok 
+70740899 MiRcs [DEBUG] 06-08 17:38:37 下午 RcsServiceManager, rcs_json_action_cli_serv_logout 
+70741346 MiRcs [DEBUG] 06-08 17:38:38 下午 RcsServiceManager, rcs_json_action_cli_serv_login_ok 
+71697186 MiRcs [DEBUG] 06-08 17:54:34 下午 RcsServiceManager, rcs_json_action_cli_cmcc_token 
+71911429 MiRcs [DEBUG] 06-08 17:58:08 下午 RcsServiceManager, rcs_json_action_cli_serv_logout 
+71911955 MiRcs [DEBUG] 06-08 17:58:08 下午 RcsServiceManager, rcs_json_action_cli_serv_login_ok 
