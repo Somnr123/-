@@ -137,66 +137,6 @@
       "filterable": 0
     },
     {
-      "key": "csp_biubiu_lezhu",
-      "name": "乐猪(Biu)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "网上自己找XBIUBIU"
-    },
-    {
-      "key": "csp_biubiu_lgyy",
-      "name": "蓝光(Biu)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "网上自己找XBIUBIU"
-    },
-    {
-      "key": "csp_biubiu_555",
-      "name": "555(Biu)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "网上自己找XBIUBIU"
-    },
-    {
-      "key": "v2_团夕",
-      "name": "团夕(V2)",
-      "type": 3,
-      "api": "csp_AppYs2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://www.kan365.xyz/api.php/app/"
-    },
-    {
-      "key": "csp_xpath_huya",
-      "name": "虎牙直播",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "网上自己找XPATH"
-    },
-    {
-      "key": "csp_xpath_hdmoli",
-      "name": "HD茉莉(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "网上自己找XPATH"
-    },
-    {
       "key": "诺讯采集",
       "name": "诺讯采集",
       "type": 0,
