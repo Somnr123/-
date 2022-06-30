@@ -24,7 +24,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"spider":"https://somnr123.github.io/-/0618/baddychen0628.jar",
+"spider":"https://somnr123.github.io/-/0618/baddychen0630.jar",
 
 // 直播地址需要改一下。因为是用base64位编码的。
 // https://somnr123.github.io/-/0618/电视/live.txt   编码后为 aHR0cHM6Ly9zb21ucjEyMy5naXRodWIuaW8vLS8wNjA4L+eUteinhi9saXZlLnR4dA
@@ -64,6 +64,7 @@
 {"key": "csp_Blidw"  ,"name":"🐞动物世界","type": 3,"api": "csp_Blidw","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Blixq"  ,"name":"🐞戏曲","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_PHP_WMKK"    ,"name":"🛴完美看看","type":1,  "api": "http://api.flypotato.xyz/wmkk.php","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key":"csp_appys_美剧虫","name":"美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
 
 {"key":"csp_xpath_体育","name":"体育","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://somnr123.github.io/-/0618/X/体育.json"},
 {"key":"csp_xpath_网络搜集库112","name":"工人","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://somnr123.github.io/-/0618/X/519-gongreng.json"},
