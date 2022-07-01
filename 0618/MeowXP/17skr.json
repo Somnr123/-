@@ -6,17 +6,17 @@
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
-  "cateNode": "//ul[contains(@class, 'navbar-nav')]/li/a[contains(@href, 'type')]",
-  "cateName": "/@title",
-  "cateId": "/@href",
-  "cateIdR": "/type/(\\d+).html",
+  //"cateNode": "//ul[contains(@class, 'navbar-nav')]/li/a[contains(@href, 'type')]",
+  //"cateName": "/@title",
+  //"cateId": "/@href",
+  //"cateIdR": "/type/(\\S+).html",
   "cateManual": {
-    "日本动漫": "ribendongman",
-    "国产动漫": "guochandongman",
-    "欧美动漫": "oumeidongman",
-    "日本动漫电影": "ribendonghuadianying",
-    "国产动漫电影": "guochandonghuadianying",
-    "欧美动漫电影": "oumeidonghuadianying"
+    "日本动漫": "6",
+    "国产动漫": "7",
+    "欧美动漫": "8",
+    "日本动漫电影": "3",
+    "国产动漫电影": "4",
+    "欧美动漫电影": "5"
   },
 
   "homeVodNode": "//div[contains(@class, 'video-img-box')]",
@@ -26,8 +26,8 @@
   "homeVodImg": "/div[contains(@class, 'img-box')]/a/img/@data-src",
   "homeVodMark": "/div[contains(@class, 'img-box')]/a/div[contains(@class,'absolute-bottom-right')]/span/text()",
 
-  "cateUrl": "https://www.17skr.com/type/{cateId}_{catePg}.html",
-//   "cateUrl": "https://www.17skr.com/vod/show/by/{by}}/id/{cateId}/page/{catePg}/year/{year}.html",
+  //"cateUrl": "https://www.17skr.com/type/{cateId}_{catePg}.html",
+  "cateUrl": "https://www.17skr.com/vod/show/id/{cateId}/page/{catePg}.html",
   "cateVodNode": "//div[contains(@class, 'video-img-box')]",
   "cateVodName": "/div[contains(@class, 'detail')]/h6/a/text()",
   "cateVodId": "/div[contains(@class, 'img-box')]/a/@href",

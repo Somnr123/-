@@ -66,7 +66,11 @@
 {"key":"csp_PHP_WMKK"    ,"name":"🛴完美看看","type":1,  "api": "http://api.flypotato.xyz/wmkk.php","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"csp_appys_美剧虫","name":"美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
 
+
+{"key":"小宝影院","name":"⛄️小宝影院","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},     
 {"key":"csp_xpath_体育","name":"体育","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://somnr123.github.io/-/0618/X/体育.json"},
+
+
 {"key":"csp_xpath_网络搜集库112","name":"工人","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://somnr123.github.io/-/0618/X/519-gongreng.json"},
 {"key":"csp_xpath_网络搜集源03","name":"在线","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://somnr123.github.io/-/0618/X/zxzj.js"},
 {"key":"csp_xpath_网络搜集库huaya","name":"虎牙🎤","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://somnr123.github.io/-/0618/X/huya.js"},
