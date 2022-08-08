@@ -24,7 +24,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"spider":"https://somnr123.github.io/-/Jar/0731.jar",
+"spider":"https://somnr123.github.io/-/Jar/top95.jar",
 
 // 直播地址需要改一下。因为是用base64位编码的。
 // https://somnr123.github.io/-/0608/电视/live.txt   编码后为 aHR0cHM6Ly9zb21ucjEyMy5naXRodWIuaW8vLS8wNjA4L+eUteinhi9saXZlLnR4dA
@@ -38,8 +38,6 @@
 
 "sites":[
 
-{"key": "Smdyy_spider","name": "🐞神马影视","api": "csp_Smdyy","type": 3,"filterable": 1,"quickSearch": 1,	"searchable": 1,"ext": ""},
-{"key": "Lezhu_spider","name": "🐞乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
 {"key":"KanSJ_spider","name":"🐞看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"293视频","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"追剧喵","name":"🐞追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
@@ -72,11 +70,11 @@
 {"key": "csp_Bttoo"  ,"name":"🐞两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "360_spider"  ,"name":"🐞360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_GitCafe","name":"🐞纸条📃","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"dcbc975ad0684eb5a498ecd1836272e6"},
+{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_AliPanSou","name":"🐞猫搜😻(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"FindZY","name":"找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key": "push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"dcbc975ad0684eb5a498ecd1836272e6"},
+{"key": "push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"阿里Token"},
 {"key":"push_agent","name":"推送（阿里）","type":3,"api":"csp_Ali","searchable":0,"quickSearch":0,"filterable":0},
 {"key": "csp_Blixs"  ,"name":"🐞相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Bliyc" ,"name":"🐞演唱会","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -95,9 +93,7 @@
 {"key":"csp_biubiu_搜狗影院", "name":"🐞测试搜狗影院", "type":3, "api":"csp_XBiubiu", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://somnr123.github.io/-/0618/X/搜狗影院.json"},
 { "key":"csp_biubiu_桔子TV", "name":"🐞测试桔子TV", "type":3, "api":"csp_XBiubiu","searchable":1,"quickSearch":1, "filterable":0, "ext":"https://somnr123.github.io/-/0618/X/桔子TV.json" },
 {"key":"csp_xpath_喵乐","name":"测试喵乐(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://somnr123.github.io/-/0618/X/喵乐.json"},
-{"key":"小猫咪","name":" 🐈测试小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key": "csp_BBB","name": "🐞哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://somnr123.github.io/-/0618/X/bili.json"},
-
+{"key":"小猫咪","name":" 🐈测试小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1}
 
 {"key":"csp_xpath_网络搜集库112","name":"工人","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://somnr123.github.io/-/0618/X/519-gongreng.json"},
 {"key":"csp_xpath_网络搜集源03","name":"在线","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://somnr123.github.io/-/0618/X/zxzj.js"},
@@ -623,8 +619,6 @@
 {"key":"*快播盒子资源","name":"🔞快播盒子资源","type":0,"api":"https://www.caiji09.com/home/cjapi/cfp0/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"*久草资源","name":"🔞久草资源","type":0,"api":"http://jcspcj8.com/api?ac=videolist","searchable":0,"quickSearch":0},
 {"key":"*鲨鱼资源","name":"🔞鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-
-
 
 {"key": "4000","name": "4000","type": 0,"api": "http://4000zy.com/inc/api.php", "playUrl": "","categories": [] },
 {"key": "青青草","name": "青青草","type": 0,"api": "https://www.caiji05.com/home/cjapi/cfda/mc/vod/xml","searchable": 1,"quickSearch": 1,"filterable": 0},
