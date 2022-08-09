@@ -49,6 +49,7 @@
 {"key":"csp_Wmkk","name":"🐞完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_LibVio"  ,"name":"🐞LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "csp_BBB","name":"🐞哔哩哔哩404","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable":1,"ext":"https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Bili.json"},
+{"key": "Bili","name": "️哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://somnr123.github.io/-/0618/X/哔哩.json"},
 {"key":"csp_77","name":"🐞七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP" ,"name":"🐞厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_CZSPP","name":"🐞厂长","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
