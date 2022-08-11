@@ -46,6 +46,8 @@
 {"key":"3EDY","name":"🐞3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_hbys","name":"🐞简影","api":"csp_JianYing","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU5MjQwNzQzLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.xB1ZZAaYwrkyLF8bD1KyQKC2tmW0myIZgUQvTVQWELk"},
 {"key":"csp_Wmkk","name":"🐞完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"csp_DiDuan" ,"name":"🐞低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"Ekan_spider" ,"name":"🐞Ekan","api":"csp_Ekan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_LibVio"  ,"name":"🐞LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "Bili","name": "️哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://somnr123.github.io/-/0618/X/哔哩.json"},
 {"key":"csp_77","name":"🐞七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -77,13 +79,11 @@
 {"key": "csp_BBB","name": "🐞测试哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://somnr123.github.io/-/0618/X/bili.json"},
 {"key": "csp_Qicui"  ,"name":"🐞测试奇粹影视","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Nbys","name":"🐼测试泥巴(SP需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Ekan_spider" ,"name":"🐞测试Ekan","api":"csp_Ekan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_CZSPP","name":"🐞测试厂长","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_CZSPP" ,"name":"🐞测试厂长资源1","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_CZSPP","name":"🐞测试厂长1","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_CZSPP" ,"name":"🐞测试厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Buka","name":"🐞测试真不卡","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DY1990","name":"🐞测试九零影视","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_DiDuan","name":"🐞测试低端","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_DiDuan" ,"name":"🐞测试低端影视1","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_n0ys","name":"🐞测试1090影视","type":3,"api":"csp_N0ys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 
 
@@ -730,7 +730,7 @@
 {"key":"zp126","name":"*色色资源","type":0,"api":"http://secj8.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"zp061","name":"*富二代资源","type":0,"api":"http://f2dcj6.com/sapi/?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"*秀色资源","name":"*秀色资源","type":1,"api":"https://api.xiuseapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"zp098","name":"老鸭资源","type":0,"api":"http://laoyazy.vip/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0}
+{"key":"zp098","name":"*老鸭资源","type":0,"api":"http://laoyazy.vip/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0}
 
 
 
