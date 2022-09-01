@@ -103,7 +103,7 @@
 {"key": "泥巴","name": "🐞泥巴(墙)","type": 4,"api": "http://z.kooo.eu.org/api/t4/nbys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "迷你","name": "🐞迷你","type": 4,"api": "http://z.kooo.eu.org/api/t4/mini","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Nfyun","name":"🚀Nf云","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"","jar": "http://dlj.bz/2W283v"},
-{"key":"csp_XYQBiu_短视频","name":"分享短视频(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/jar/XYQBiu.jar","ext":"https://somnr123.github.io/-/0618/X//分享短视频.json"}
+{"key":"csp_XYQBiu_短视频","name":"分享短视频(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/jar/XYQBiu.jar","ext":"https://somnr123.github.io/-/0618/X//分享短视频.json"},
 {"key": "293","name": "293","type": 4,"api": "http://z.kooo.eu.org/api/t4/293","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "软件","name": "📚软件教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://somnr123.github.io/-/0618/X/软件教程.json"},
 {"key": "csp_Gitcafe","name":"🐞阿里纸条11(SP)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"阿里token"},
