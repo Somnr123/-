@@ -619,9 +619,9 @@
 {"key":"嘛哩嘛哩","name":"嘛哩嘛哩(聚)","type":1,"api":"https://malimali3.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫"]},
 {"key":"小猫咪","name":" 🐈测试小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
-{"api":"csp_Hsck","ext":"https://www.javsee.men/","filterable":0,"key":"csp_Hsck","name":"黄色仓库(爬虫)","quickSearch":1,"searchable":1,"type":3,"jar":"https://somnr123.github.io/-/Jar/18.jar"},
-{"api":"http://api.if101.tv/v1/vod?ac=list","filterable":0,"key":"if101资源","name":"if101(海外推荐)","quickSearch":0,"searchable":1,"type":1 },
-{"api":"https://www.ddzyz1.com/api.php/provide/vod/","key":"多多资源","name":"多多资源(切)","quickSearch":1,"searchable":1,"type":1 },
+{"key":"csp_Hsck","name":"黄色仓库(爬虫)","quickSearch":1,"searchable":1,"type":3,"api":"csp_Hsck","ext":"https://www.javsee.men/","filterable":0,"jar":"https://somnr123.github.io/-/Jar/18.jar"},
+{"key":"if101资源","name":"if101(海外推荐)","quickSearch":0,"searchable":1,"type":1,"api":"http://api.if101.tv/v1/vod?ac=list" },
+{"key":"多多资源","name":"多多资源(切)","quickSearch":1,"searchable":1,"type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/"},
 { "key":"csp_biubiu_新香蕉视频", "name":"新香蕉视频", "type":3, "api":"csp_XBiubiu","searchable":1,"quickSearch":1, "filterable":0, "ext":"https://somnr123.github.io/-/0618/18/xxj.json" },
 
 { "key":"csp_biubiu_4K狗午夜版", "name":"🔞4K狗午夜版", "type":3, "api":"csp_XBiubiu","searchable":1,"quickSearch":1, "filterable":0, "ext":"https://somnr123.github.io/-/0618/18/4K狗午夜版.json" },
